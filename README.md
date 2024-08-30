@@ -4,14 +4,22 @@
     APP FINANÇAS
 
 ## Sobre o Projeto
-    
+    Projeto simples, prático e usual para controle de finanças, onde
+    podemos adicionar entradas e saídas de valores colocando uma descrição
+    para cada, visualizar o total das suas entradas, saídas e também o total
+    do seu financeiro (entradas-saídas).
 
 ## Conhecimentos
     . Como criar um projeto react com com create react app
         . O que o create react app traz de estrutura de pasta
     
     . Componentização
-        . 
+        . Header
+        . Resume
+        . ResumeItem
+        . Form
+        . Grid
+        . GridItem
 
 ## Conceitos
     . Bibliotecas
